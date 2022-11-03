@@ -52,14 +52,6 @@ main {
   margin-right: auto;
 }
 
-.hero-banner {
-  background-size: cover cover;
-  background-position: center;
-  min-height: 30vh;
-  background-repeat: no-repeat;
-  position: relative;
-}
-
 .page-section {
   margin: 25px 0;
   padding: 10px 0;
@@ -200,11 +192,6 @@ p {
 
   .flex-item:first-child {
     min-height: 150px;
-  }
-
-  .hero-banner {
-    justify-content: center;
-    text-align: center;
   }
 
   .contact address {
