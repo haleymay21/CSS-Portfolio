@@ -12,6 +12,7 @@ This portfolio is a work in progress
 ## Links
 
 URL of deployed solution: https://haleymay21.github.io/Challenge2-Portfolio/
+
 URL of repository: https://github.com/haleymay21/Challenge2-Portfolio
 
 ### Screenshot
