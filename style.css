@@ -4,7 +4,8 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   margin: 0;
   background-color: whitesmoke;
 }
@@ -79,6 +80,25 @@ h2 {
 
 p {
   color: #273824;
+  line-height: 30px;
+  font-size: 19px;
+}
+
+#haley {
+  background-color: #576f53;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: aliceblue;
+}
+
+#hello {
+  font-size: 27px;
+  font-weight: 900;
+  padding-bottom: 10px;
+}
+
+#about {
+  max-width: 640px;
 }
 
 /* flex container for work section */
@@ -104,6 +124,32 @@ p {
   background-size: 150%;
   transition: all 0.5s;
   font-size: 0.9rem;
+}
+
+.project4 {
+  background-image: url("https://imageio.forbes.com/specials-images/dam/imageserve/1128442176/0x0.jpg?format=jpg&width=1200");
+  background-size: 375px;
+}
+
+.project5 {
+  background-image: url("https://davidwalsh.name/demo/2019/09/weatherstack-forecast.gif");
+  background-size: 375px;
+}
+
+.project3 {
+  background-image: url("https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608153534/57106_article_full.jpg");
+  background-size: 375px;
+}
+
+.project1 {
+  background-image: url("https://cdn.writermag.com/2019/03/question-marks.jpg");
+  background-size: 788px;
+  max-width: 788px;
+}
+
+.project2 {
+  background-image: url("./assets/sign_up_photo.jpeg");
+  background-size: 375px;
 }
 
 /* style and flex of portfolio items  */
@@ -147,6 +193,15 @@ p {
 
 .contact address a:hover {
   color: #576f53;
+}
+
+img {
+  max-width: 270px;
+  max-height: 300px;
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-right: -40px;
+  border-radius: 20px;
 }
 
 /* media section */
