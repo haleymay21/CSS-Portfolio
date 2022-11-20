@@ -7,7 +7,7 @@ Portforlio lists:
 - A recent phtot
 - Links to my work
 
-This website is a work in progress
+This portfolio is a work in progress
 
 ## Links
 
